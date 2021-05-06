@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2009.02.25 16:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Lagre dokument"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Vent litt.\n"
+"Minnekortet er i bruk."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "PDF-leser"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Gå"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Kan ikke åpne.\n"
+"Dokumentet er ødelagt."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Åpning eller lagring ble avbrutt.\n"
+"Minnekortdeksel er åpent."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Ikke nok minne til å lagre filen"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Sidetallet må være mellom %1$d og %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "Kan ikke lagre"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Lagret"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Forfatter"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Nøkkelord"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Emne"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Tittel"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Gjeldende side:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Skriv inn sidetall:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Dokumentet er kryptert. Skriv inn passord"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Kan ikke åpne. Filen er i bruk."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Første side nådd"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Ingen dokumenter er åpne"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Feil passord"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Siste side nådd"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Maksimalt zoomenivå nådd"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Ikke tilgjengelig"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Minimalt zoomenivå nådd"
+
+msgid "pdfv_ib_opening"
+msgstr "Åpner"
+
+msgid "pdfv_ib_saving"
+msgstr "Lagrer"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Dokument"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Side"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Siste"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Vis"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Detaljer"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Åpne"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Lagre som"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Første side"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Siste side"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Neste side"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Forrige side"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Gå til side"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Vis bilder"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Zoom"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Zoom inn"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Zoom ut"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Tilpass side"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Tilpass bredde"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Finner ikke dokumentet"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Ikke nok minne til å vise dokumentet"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Ikke nok minne til å vise siden"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Kan ikke åpne.\n"
+"Filformatet støttes ikke."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Skjuler bilder"
+
+msgid "pdfv_pb_show_images"
+msgstr "Viser bilder"
+
+msgid "pdfv_pb_zooming"
+msgstr "Zoomer"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Åpne PDF-dokument"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Gå til side"
+
+msgid "pdvi_ap_application_title"
+msgstr "PDF-leser"

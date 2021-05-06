@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2009.02.25 16:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Spara dokument"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Vänta.\n"
+"Minneskortet används."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "PDF-läsare"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Gå"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Det gick inte att öppna.\n"
+"Dokumentet är skadat."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Öppnandet eller sparandet avbröts.\n"
+"Minneskortsluckan är öppen."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Otillräckligt minne för att spara fil"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Sidnumret måste vara mellan %1$d och %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "Det gick inte att spara"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Sparad"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Författare"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Nyckelord"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Ämne"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Namn"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Nuvarande sida:     %1$d/%2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Ange sidnummer:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Dokumentet krypterat. Ange lösenord"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Det gick inte att öppna. Filen används."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Första sidan nådd"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Inget dokument öppet"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Felaktigt lösenord"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Sista sidan nådd"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Högsta zoomningsnivå nådd"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Ej tillgängligt"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Lägsta zoomningsnivå nådd"
+
+msgid "pdfv_ib_opening"
+msgstr "Öppnar"
+
+msgid "pdfv_ib_saving"
+msgstr "Sparar"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Dokument"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Sida"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Senaste"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Visa"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Information"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Öppna"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Spara som"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Första sidan"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Sista sidan"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Nästa sida"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Föregående sida"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Gå till sidan"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Visa bilder"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Zooma"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Zooma in"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Zooma ut"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Anpassa till sidan"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Anpassa bredd"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Dokumentet hittades inte"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Otillräckligt minne för att visa dokumentet"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Otillräckligt minne för att visa sidan"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Det gick inte att öppna.\n"
+"Filformatet stöds inte."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Döljer bilder"
+
+msgid "pdfv_pb_show_images"
+msgstr "Visar bilder"
+
+msgid "pdfv_pb_zooming"
+msgstr "Zoomning"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Öppna PDF-dokument"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Gå till sidan"
+
+msgid "pdvi_ap_application_title"
+msgstr "PDF-läsare"

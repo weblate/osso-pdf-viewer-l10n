@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2009.02.25 16:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Enregistrer document"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Carte mémoire en cours d'utilisation.\n"
+"Veuillez patienter."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "Lecteur PDF"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Aller"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Impossible d'ouvrir.\n"
+"Document endommagé."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Ouverture ou enregistrement interrompu.\n"
+"Couvercle de carte mémoire ouvert."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Mémoire insuffisante pour enregistrer le fichier"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Le numéro de page doit être compris entre %1$d et %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "Impossible d'enregistrer"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Enregistré"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Auteur"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Mots clés"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Objet"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Titre"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Page actuelle :     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Numéro de page"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Document crypté. Entrer le mot de passe utilisateur."
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Impossible d'ouvrir. Fichier en cours d'utilisation."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Première page"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Aucun document ouvert"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Mot de passe non valide"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Dernière page"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Zoom avant au maximum"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Non disponible"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Zoom arrière au maximum"
+
+msgid "pdfv_ib_opening"
+msgstr "Ouverture"
+
+msgid "pdfv_ib_saving"
+msgstr "Enregistrement"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Document"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Page"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Récents"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Vue"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Détails"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Ouvrir"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Enregistrer sous"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Première page"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Dernière page"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Page suivante"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Page précédente"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Allez à la page"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Afficher images"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Zoom"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Zoom avant"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Zoom arrière"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Adapter page"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Adapter largeur"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Document introuvable"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Mémoire insuffisante pour afficher le document"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Mémoire insuffisante pour afficher la page"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Impossible d'ouvrir.\n"
+"Format de fichier non compatible."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Images masquées"
+
+msgid "pdfv_pb_show_images"
+msgstr "Images affichées"
+
+msgid "pdfv_pb_zooming"
+msgstr "Zoom"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Ouvrir document PDF"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Allez à la page"
+
+msgid "pdvi_ap_application_title"
+msgstr "Lecteur PDF"

@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2009.02.25 16:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Dokument speichern"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Bitte warten.\n"
+"Speicherkarte wird gerade verwendet."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "PDF-Reader"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "OK"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Öffnen nicht möglich.\n"
+"Dokument beschädigt."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Öffnen oder Speichern unterbrochen.\n"
+"Abdeckung der Speicherkarte ist offen."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Nicht genug Speicher zum Speichern der Datei"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Seitenzahl muss zwischen %1$d und %2$d liegen"
+
+msgid "pdfv_error_savefail"
+msgstr "Speichern nicht möglich"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Gespeichert"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Autor"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Stichwörter"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Betreff"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Titel"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Aktuelle Seite:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Seitenzahl:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Dokument verschlüsselt. Benutzerkennwort eingeben."
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Öffnen nicht möglich. Datei wird gerade verwendet."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Erste Seite erreicht"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Kein Dokument geöffnet"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Falsches Kennwort"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Letzte Seite erreicht"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Maximale Vergrößerung erreicht"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Nicht verfügbar"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Maximale Verkleinerung erreicht"
+
+msgid "pdfv_ib_opening"
+msgstr "Wird geöffnet"
+
+msgid "pdfv_ib_saving"
+msgstr "Wird gespeichert"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Dokument"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Seite"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Zuletzt verwendet"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Ansicht"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Details"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Öffnen"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Speich. unter"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Erste Seite"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Letzte Seite"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Nächste Seite"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Vorherige Seite"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Gehe zu Seite"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Bilder anzeigen"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Zoom"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Vergrößern"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Verkleinern"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Ganze Seite"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Seitenbreite"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Dokument nicht gefunden"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Nicht genug Speicher zum Anzeigen des Dokuments"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Nicht genug Speicherplatz zum Anzeigen der Seite"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Öffnen nicht möglich.\n"
+"Dateiformat nicht unterstützt."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Bilder werden ausgeblendet"
+
+msgid "pdfv_pb_show_images"
+msgstr "Bilder werden angezeigt"
+
+msgid "pdfv_pb_zooming"
+msgstr "Zoom"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "PDF-Dokument öffnen"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Gehe zu Seite"
+
+msgid "pdvi_ap_application_title"
+msgstr "PDF-Reader"

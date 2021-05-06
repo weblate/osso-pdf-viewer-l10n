@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2009.02.25 16:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Сохранить документ"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Подождите.\n"
+"Карта памяти используется."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "Чтение PDF"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Вперед"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Не удается открыть.\n"
+"Документ поврежден."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Открытие или сохранение прервано.\n"
+"Крышка карты памяти открыта."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Недостаточно памяти для сохранения файла"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Номер страницы должен быть от %1$d до %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "Не удается сохранить"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Сохранено"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Автор"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Ключевые слова"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Тема"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Заголовок"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Текущая страница:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Введите номер страницы:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Документ зашифрован. Введите пароль пользователя"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Не удается открыть. Файл используется."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Открыта первая страница"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Нет открытых документов"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Неверный пароль"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Открыта последняя страница"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Достигнут максимум масштаба"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Недоступен"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Достигнут минимум масштаба"
+
+msgid "pdfv_ib_opening"
+msgstr "Открытие"
+
+msgid "pdfv_ib_saving"
+msgstr "Сохранение"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Документ"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Страница"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Недавние"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Вид"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Свойства"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Открыть"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Сохранить как"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Первая страница"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Последняя страница"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Следующая страница"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Предыдущая страница"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "К странице"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Показать изображения"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Масштаб"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Увеличить"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Уменьшить"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "По размеру страницы"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "По ширине"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Документ не найден"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Недостаточно памяти для отображения документа"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Недостаточно памяти для вывода страницы"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Не удается открыть.\n"
+"Формат файла не поддерживается."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Скрыть изображения"
+
+msgid "pdfv_pb_show_images"
+msgstr "Показать изображения"
+
+msgid "pdfv_pb_zooming"
+msgstr "Изменение масштаба"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Открыть документ PDF"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "К странице"
+
+msgid "pdvi_ap_application_title"
+msgstr "Чтение PDF"

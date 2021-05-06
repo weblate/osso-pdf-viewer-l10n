@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2009.02.25 16:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Gem dokument"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Vent venligst.\n"
+"Hukommelseskortet er i brug."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "PDF-læser"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Gå"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Dokumentet er beskadiget."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Åbning eller lagring blev afbrudt.\n"
+"Dækslet til hukommelseskortet er åbent."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Ikke tilstrækkelig hukommelse til at gemme fil"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Sidenummeret skal være mellem %1$d og %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "Kan ikke gemme"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Gemt"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Forfatter"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Nøgleord"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Emne"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Titel"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Aktuel side:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Indtast sidenummer:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Dokument krypteret. Indtast adgangskode"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Kan ikke åbne. Filen er i brug."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Første side nået"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Intet dokument åbent"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Forkert adgangskode"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Sidste side nået"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Maks. zoom-niveau nået"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Ikke tilgængelig"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Min. zoom-niveau nået"
+
+msgid "pdfv_ib_opening"
+msgstr "Åbner"
+
+msgid "pdfv_ib_saving"
+msgstr "Gemmer"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Dokument"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Side"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Seneste"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Vis"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Detaljer"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Åbn"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Gem som"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Første side"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Sidste side"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Næste side"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Forrige side"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Gå til side"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Vis billeder"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Zoom"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Zoom ind"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Zoom ud"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Tilpas side"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Tilpas bredde"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Dokumentet ikke fundet"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Ikke tilstrækkelig hukommelse til at vise dokument"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Ikke tilstrækkelig hukommelse til at vise side"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Filformatet er ikke understøttet."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Skjuler billeder"
+
+msgid "pdfv_pb_show_images"
+msgstr "Viser billeder"
+
+msgid "pdfv_pb_zooming"
+msgstr "Zoomer"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Åbn PDF-dokument"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Gå til side"
+
+msgid "pdvi_ap_application_title"
+msgstr "PDF-læser"

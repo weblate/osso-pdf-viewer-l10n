@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2009.02.25 16:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Tallenna dokumentti"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Odota.\n"
+"Muistikortti on käytössä."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "PDF-lukija"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Siirry"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Ei voi avata.\n"
+"Dokumentti vioittunut."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Avaaminen tai tallentaminen keskeytetty.\n"
+"Muistikortin kansi on auki."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Muisti ei riitä tiedoston tallentamiseen"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Sivunumeron on oltava %1$d - %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "Ei voi tallentaa"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Tallennettu"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Tekijä"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Avainsanat"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Aihe"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Otsikko"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Nykyinen sivu:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Anna sivunumero:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Dokumentti salattu. Kirjoita salasana"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Ei voi avata. Tiedosto on käytössä."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Olet ensimmäisellä sivulla"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Ei yhtään dokumenttia auki"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Väärä salasana"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Olet viimeisellä sivulla"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Ei voi enää suurentaa"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Ei käytettävissä"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Ei voi enää pienentää"
+
+msgid "pdfv_ib_opening"
+msgstr "Avataan"
+
+msgid "pdfv_ib_saving"
+msgstr "Tallentaa"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Dokumentti"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Sivu"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Edelliset"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Näytä"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Tiedot"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Avaa"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Tallenna nimellä"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Ensimmäinen sivu"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Viimeinen sivu"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Seuraava sivu"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Edellinen sivu"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Siirry sivulle"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Näytä kuvat"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Zoomaa"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Suurenna"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Pienennä"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Sovita sivu"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Sovita leveys"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Dokumenttia ei löydy"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Muisti ei riitä dokumentin näyttämiseen"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Muisti ei riitä sivun näyttämiseen"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Ei voi avata.\n"
+"Tiedostomuotoa ei tueta."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Piilotetaan kuvat"
+
+msgid "pdfv_pb_show_images"
+msgstr "Näytetään kuvat"
+
+msgid "pdfv_pb_zooming"
+msgstr "Muutetaan kokoa"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d%%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Avaa PDF-dokumentti"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Siirry sivulle"
+
+msgid "pdvi_ap_application_title"
+msgstr "PDF-lukija"
