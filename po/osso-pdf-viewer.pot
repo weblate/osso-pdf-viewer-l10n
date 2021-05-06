@@ -152,6 +152,9 @@ msgstr "Fit page"
 msgid "pdfv_me_menu_screen_zoom_width"
 msgstr "Fit width"
 
+msgid "pdfv_me_menu_single_page_continuous"
+msgstr "Continuous view"
+
 msgid "pdfv_ni_document_not_found"
 msgstr "Document not found"
 

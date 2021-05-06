@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: osso-pdf-viewer 20090225160729\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.02.25 16:07+0200\n"
-"PO-Revision-Date: 2009.02.25 16:07+0200\n"
-"Last-Translator:\n"
+"PO-Revision-Date: 2012-04-03 20:21+0100\n"
+"Last-Translator: Christian Ratzenhfoer <christian_ratzenhofer@yahoo.de>\n"
 "Language-Team: fr_CA\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -152,6 +153,9 @@ msgstr "Adapter page"
 msgid "pdfv_me_menu_screen_zoom_width"
 msgstr "Adapter largeur"
 
+msgid "pdfv_me_menu_single_page_continuous"
+msgstr "Vue continue"
+
 msgid "pdfv_ni_document_not_found"
 msgstr "Document introuvable"
 
@@ -186,3 +190,4 @@ msgstr "Allez à la page"
 
 msgid "pdvi_ap_application_title"
 msgstr "Lecteur PDF"
+
