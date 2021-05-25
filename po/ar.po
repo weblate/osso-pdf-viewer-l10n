@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2010-04-27 22:27+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "حفظ المستند"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"يرجى الأنتظار.\n"
+"الذاكرة مستخدمة بالفعل."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "PDF قارئ"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "ذهاب"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"غير قادر على الفتح.\n"
+"الملف معطوب."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"فتح الملف أو حفظه توقف.\n"
+"غطاء الذاكره مفتوح."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "لايوجد ذاكره كافية لحفظ الملف"
+
+msgid "pdfv_error_pagenumber"
+msgstr "أرقام الصفحات يجب أن يكون مابين %1$d و %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "غير قادر على الحفظ"
+
+msgid "pdfv_error_successfulsave"
+msgstr "تم الحفظ"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "الكاتب"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "الكلمات المفتاحية"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "الموضوع"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "العنوان"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "الصفحة الحالية:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "أدخل رقم الصفحة:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "الملف محمي. أدخل رمز الحماية"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "غير قادر على الفتح. الملف مستخدم."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "الصفحة الأولى التي تم الوصول إليها"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "لايوجد مستند مفتوح"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "رمز الحماية خاطئ"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "آخر صفحة تم الوصول إليها"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "أكبر حد مسموح به لتكبير"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "غير متوفر"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "أصغر حد مسموح به لتصغير"
+
+msgid "pdfv_ib_opening"
+msgstr "جارى الفتح"
+
+msgid "pdfv_ib_saving"
+msgstr "جارى الحفظ"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "مستند"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "صفحة"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "الأخيرة"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "مشاهدة"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "تفاصيل"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "فتح"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "حفظ بأسم"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "الصفحة الأولى"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "الصفحة الأخيرة"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "الصفحة التالية"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "الصفحة السابقة"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "الذهاب إلى أول صفحة"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "مشاهدة الصور"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "تكبير"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "تكبير"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "تصغير"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "ملائمة الصفحة"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "ملائمة العرض"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "المستند غير موجود"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "لايوجد ذاكره كافية لعرض المستند"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "لاتوجد ذاكره عشوائية لفتح الصفحة"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"غير قادر على الفتح.\n"
+"صيغة الملف غير مدعومة."
+
+msgid "pdfv_pb_hide_images"
+msgstr "أخفاء الصور"
+
+msgid "pdfv_pb_show_images"
+msgstr "مشاهدة الصور"
+
+msgid "pdfv_pb_zooming"
+msgstr "جارى التكبير"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "PDF فتح مستند"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "الذهاب إلى الصفحة"
+
+msgid "pdvi_ap_application_title"
+msgstr "PDF reader"
+
