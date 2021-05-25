@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2010-02-01 16:22+0100\n"
+"Last-Translator: Andy1210 <andy1210@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Dokumentum mentése"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Kérlek várj.\n"
+"Memória kártya használatban."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "PDF olvasó"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Ugrás"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Dokumentum sérült."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Megnyitás vagy mentés megszakadt.\n"
+"Memória kártya fedél nyitva."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Nincs elég memória a fájl mentéséhez"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Az oldal számának %1$d és %2$d közt kell lennie"
+
+msgid "pdfv_error_savefail"
+msgstr "Nem lehet menteni"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Mentve"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Szerző"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Kulcsszavak"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Téma"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Cím"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Jelenlegi oldal:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Add meg az oldalszámot:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "A dokumentum védett. Add meg a jelszót"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Nem lehet megnyitni. A fájl használatban van."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Első oldal elérve"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Nincs megnyitott dokumentum"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Helytelen jelszó"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Utolsó oldal elérve"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Elérted a maximális zoom szintet"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Nem elérhető"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Elérted a minimum zoom szintet"
+
+msgid "pdfv_ib_opening"
+msgstr "Megnyitás"
+
+msgid "pdfv_ib_saving"
+msgstr "Mentés"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Dokumentum"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Oldal"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Legutóbbi"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Megtekintés"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Részletek"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Megnyitás"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Mentés másként"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Első oldal"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Utolsó oldal"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Következő oldal"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Előző oldal"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Ugrás a megadott oldalra"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Képek megjelenítése"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Zoom"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Nagyítás"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Kicsinyítés"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Teljes oldal"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Teljes szélesség"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Dokumentum nem található"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Nincs elég memória a dokumentum megjelenítéséhez"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Nincs elég memória az oldal megjelenítéséhez"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Fájl formátum nem támogatott."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Képek elrejtése"
+
+msgid "pdfv_pb_show_images"
+msgstr "Képek megjelenítése"
+
+msgid "pdfv_pb_zooming"
+msgstr "Zoomolás"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "PDF dokumentum megnyitása"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Ugrás a kiválasztott oldalra"
+
+msgid "pdvi_ap_application_title"
+msgstr "PDF olvasó"
+
