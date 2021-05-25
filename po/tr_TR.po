@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2010-05-29 21:57+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Dökümanı kaydet"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Lütfen bekleyin.\n"
+"Hafıza kartı kullanımda."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "PDF okuyucu"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Git"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Açılamıyor.\n"
+"Döküman hasarlı."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Açma veya kaydetme yapılamadı.\n"
+"Hafıza kartı kapağı açık."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Kaydetmeye yetecek kadar bellek yok"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Sayfa numarası mutlaka %1$d ile %2$d arasında olmalı"
+
+msgid "pdfv_error_savefail"
+msgstr "Kaydedilemiyor"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Kaydedildi"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Yazar"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Kelimeler"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Konu"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Başlık"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Şimdiki sayfa:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Sayfa numarası girin:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Döküman şifreli. Şifrenizi girin"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Açılamıyor. Dosya kullanımda"
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "İlk sayfaya ulaşıldı"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Açık döküman yok"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Geçersiz parola"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Son sayfaya ulaşıldı"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Maksimum yakınlaştırma seviyesine ulaşıldı"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Mevcut değil"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Minimum yakınlaştırma seviyesine ulaşıldı"
+
+msgid "pdfv_ib_opening"
+msgstr "Açılıyor"
+
+msgid "pdfv_ib_saving"
+msgstr "Kaydediliyor"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Döküman"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Sayfa"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "En son"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Göster"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Detaylar"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Aç"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Farklı kaydet"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "İlk sayfa"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Son sayfa"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Sonraki sayfa"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Önceki sayfa"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Sayfaya git"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Resimleri göster"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Yakınlaştırma"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Yakınlaştır"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Uzaklaştır"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Sayfa sığdır"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Genişlik sığdır"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Döküman bulunamadı"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Dökümanı göstermek için yetersiz bellek"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Sayfayı göstermek için yetersiz bellek"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Açılamıyor.\n"
+"Dosya biçimi desteklenmiyor."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Resimler saklanıyor"
+
+msgid "pdfv_pb_show_images"
+msgstr "Resimler gösteriliyor"
+
+msgid "pdfv_pb_zooming"
+msgstr "Yaklaştırılıyor"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "PDF dökümanı aç"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Sayfaya git"
+
+msgid "pdvi_ap_application_title"
+msgstr "PDF okuyucu"
