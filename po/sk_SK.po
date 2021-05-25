@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2009-10-22 16:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Uložiť dokument"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Prosím čakajte.\n"
+"Pamäťová karta sa používa."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "Prehliadač PDF"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Prejsť"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Nemožno otvoriť.\n"
+"Dokument poškodený."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Otváranie alebo ukladanie prerušené.\n"
+"Kryt pamäťovej karty otvorený."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Nedostatok pamäte pre uloženie súboru"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Číslo stránky musí byť medzi %1$d a %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "Nemožno uložiť"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Uložené"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Autor"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Kľúčové slova"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Predmet"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Titul"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Aktuálna stránka:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Vložte číslo stránky:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Dokument zašifrovaný. Vložte užívateľské heslo"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Nemožno otvoriť. Súbor sa používa."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Dosiahnutá prvá stránka"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Nie je otvorený žiadny dokument"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Nesprávne heslo"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Dosiahnutá posledná stránka"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Dosiahnutá maximálna veľkosť zobrazenia"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Nie je dostupné"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Dosiahnutá minimálna veľkosť zobrazenia"
+
+msgid "pdfv_ib_opening"
+msgstr "Otváranie"
+
+msgid "pdfv_ib_saving"
+msgstr "Ukladanie"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Dokument"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Stránka"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Nedávne"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Zobraziť"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Podrobnosti"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Otvoriť"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Uložiť ako"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Prvá stránka"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Posledná stránka"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Následujúca stránka"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Predchádzajúca stránka"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Prejsť na stránku"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Zobrazovať obrázky"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Zväčšenie"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Zväčšiť"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Zmenšiť"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Prispôsobiť stránke"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Prispôsobiť šírke"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Dokument nenájdený"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Nedostatok pamäte pre zobrazenie dokumentu"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Nedostatok pamäte pre zobrazenie stránky"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Nemožno otvoriť.\n"
+"Nepodporovaný formát súboru."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Skrytie obrázkov"
+
+msgid "pdfv_pb_show_images"
+msgstr "Zobrazovanie obrázkov"
+
+msgid "pdfv_pb_zooming"
+msgstr "Zmena veľkosti zobrazenia"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Otvoriť dokument PDF"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Prejsť na stránku"
+
+msgid "pdvi_ap_application_title"
+msgstr "Prehliadač PDF"
+
+msgid "pdfv_me_menu_single_page_continuous"
+msgstr "Súvislý režim"
