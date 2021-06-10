@@ -1,0 +1,183 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Αποθήκευση εγγράφου"
+
+msgid "mmc_ib_please_wait"
+msgstr "Παρακαλώ περιμένετε.\nΗ κάρτα μνήμης είναι σε χρήση αυτή τη στιγμή."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "Ανάγνωση PDF"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Μετάβαση"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr "Αδύνατο το άνοιγμα.\nΤο έγγραφο είναι κατεστραμμένο."
+
+msgid "pdfv_error_memorycard"
+msgstr "Το άνοιγμα ή η αποθήκευση διακόπηκε.\nΤο κάλυμμα της κάρτας μνήμης είναι ανοιχτό."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Δεν υπάρχει αρκετή μνήμη για την αποθήκευση αρχείων"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Ο αριθμός σελίδας πρέπει να είναι μεταξύ του %1$d και του %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "Αδύνατη η αποθήκευση"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Αποθηκεύτηκε"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Συντάκτης"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Λέξεις κλειδιά"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Θέμα"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Τίτλος"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Τρέχουσα σελίδα:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Εισάγεται τον αριθμό σελίδας:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Το έγγραφο κρυπτογραφήθηκε. Εισάγεται τον κωδικό χρήστη."
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Αδύνατο το άνοιγμα. Ο φάκελος σε χρήση."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "Είστε στην πρώτη σελίδα"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "Δεν υπάρχει έγγραφο ανοιχτό"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Εσφαλμένος κωδικός πρόσβασης"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Είστε στην τελευταία σελίδα"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Το ζουμ έφτασε στο μέγιστο επίπεδο"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Μη διαθέσιμο"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Το ζουμ έφτασε στο ελάχιστο επίπεδο"
+
+msgid "pdfv_ib_opening"
+msgstr "Άνοιγμα"
+
+msgid "pdfv_ib_saving"
+msgstr "Αποθήκευση"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Έγγραφο"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Σελίδα"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Πρόσφατα"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Προβολή"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Λεπτομέρειες"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Άνοιγμα"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Αποθήκευση ως"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Πρώτη σελίδα"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Τελευταία σελίδα"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Επόμενη σελίδα"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Προηγούμενη σελίδα"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Μετάβαση στη σελίδα"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Εμφάνιση εικόνων"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Ζουμ"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Μεγέθυνση"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Σμίκρυνση"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Προσαρμογή σελίδας"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Προσαρμογή πλάτους"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Το έγγραφο δεν βρέθηκε"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Δεν υπάρχει αρκετή μνήμη για την εμφάνιση του εγγράφου"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Δεν υπάρχει αρκετή μνήμη για την εμφάνιση της σελίδας"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr "Αδύνατο το άνοιγμα.\nΗ μορφή του αρχείου δεν υποστηρίζεται."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Απόκρυψη εικόνων"
+
+msgid "pdfv_pb_show_images"
+msgstr "Εμφάνιση εικόνων"
+
+msgid "pdfv_pb_zooming"
+msgstr "Ζουμ"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Άνοιγμα PDF εγγράφου"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Μετάβαση στη σελίδα"
+
+msgid "pdvi_ap_application_title"
+msgstr "Ανάγνωση PDF"
