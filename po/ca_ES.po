@@ -1,0 +1,183 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Desa el document"
+
+msgid "mmc_ib_please_wait"
+msgstr "Espereu...\nTargeta de memòria en ús."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "Visor PDF"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Vés"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr "No s'ha pogut obrir.\nDocument malmès."
+
+msgid "pdfv_error_memorycard"
+msgstr "S'ha interromput l'obertura o desat.\nS'ha obert la tapa de la ranura microSD."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "No hi ha prou memòria per desar el fitxer"
+
+msgid "pdfv_error_pagenumber"
+msgstr "El número de pàgina ha d'estar entre %1$d i %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "No s'ha pogut desar"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Desat"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Autor"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Paraules clau"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Assumpte"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Títol"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Pàgina actual:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Introduïu un número de pàgina:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Document xifrat. Introduïu la contrasenya"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "No es pot obrir. Fitxer en ús."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "S'ha arribat a la primera pàgina"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "No hi ha documents oberts"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Contrasenya incorrecta"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "S'ha arribat a l'última pàgina"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "S'ha arribat al màxim nivell d'ampliació"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "No disponible"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "S'ha arribat al mínim nivell d'ampliació"
+
+msgid "pdfv_ib_opening"
+msgstr "S'està obrint"
+
+msgid "pdfv_ib_saving"
+msgstr "S'està desant"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Document"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Pàgina"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Recent"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "Visualitza"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Detalls"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Obre"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Desa com"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "Primera pàgina"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Última pàgina"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Pàgina següent"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Pàgina anterior"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Vés a la pàgina"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Mostra imatges"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Ampliació"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Amplia"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Redueix"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Ajusta a la pàgina"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Ajusta a l'amplada"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "No s'ha trobat el document"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "No hi ha prou memòria per mostrar el document"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "No hi ha prou memòria per mostrar la pàgina"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr "No s'ha pogut obrir.\nFormat de fitxer no permès."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Amagant les imatges"
+
+msgid "pdfv_pb_show_images"
+msgstr "Mostrant les imatges"
+
+msgid "pdfv_pb_zooming"
+msgstr "Ampliant"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Obre un document PDF"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Vés a la pàgina"
+
+msgid "pdvi_ap_application_title"
+msgstr "Visor PDF"
