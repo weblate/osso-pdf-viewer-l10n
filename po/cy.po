@@ -1,0 +1,183 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr ""
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr ""
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr ""
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr ""
+
+msgid "pdfv_error_pagenumber"
+msgstr ""
+
+msgid "pdfv_error_savefail"
+msgstr ""
+
+msgid "pdfv_error_successfulsave"
+msgstr ""
+
+msgid "pdfv_fi_document_details_author"
+msgstr ""
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr ""
+
+msgid "pdfv_fi_document_details_subject"
+msgstr ""
+
+msgid "pdfv_fi_document_details_title"
+msgstr ""
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr ""
+
+msgid "pdfv_fi_switch_page_description"
+msgstr ""
+
+msgid "pdfv_ib_encrypted_file"
+msgstr ""
+
+msgid "pdfv_ib_fileinuse"
+msgstr ""
+
+msgid "pdfv_ib_first_page_reached"
+msgstr ""
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr ""
+
+msgid "pdfv_ib_incorrect_password"
+msgstr ""
+
+msgid "pdfv_ib_last_page_reached"
+msgstr ""
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr ""
+
+msgid "pdfv_ib_menu_not_available"
+msgstr ""
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr ""
+
+msgid "pdfv_ib_opening"
+msgstr ""
+
+msgid "pdfv_ib_saving"
+msgstr ""
+
+msgid "pdfv_me_main_menu_document"
+msgstr ""
+
+msgid "pdfv_me_main_menu_page"
+msgstr ""
+
+msgid "pdfv_me_main_menu_recent"
+msgstr ""
+
+msgid "pdfv_me_main_menu_view"
+msgstr ""
+
+msgid "pdfv_me_menu_document_details"
+msgstr ""
+
+msgid "pdfv_me_menu_document_open"
+msgstr ""
+
+msgid "pdfv_me_menu_document_save"
+msgstr ""
+
+msgid "pdfv_me_menu_page_first"
+msgstr ""
+
+msgid "pdfv_me_menu_page_last"
+msgstr ""
+
+msgid "pdfv_me_menu_page_next"
+msgstr ""
+
+msgid "pdfv_me_menu_page_previous"
+msgstr ""
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr ""
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr ""
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr ""
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr ""
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr ""
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr ""
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr ""
+
+msgid "pdfv_ni_document_not_found"
+msgstr ""
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr ""
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr ""
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+
+msgid "pdfv_pb_hide_images"
+msgstr ""
+
+msgid "pdfv_pb_show_images"
+msgstr ""
+
+msgid "pdfv_pb_zooming"
+msgstr ""
+
+msgid "pdfv_tb_zoom_level"
+msgstr ""
+
+msgid "pdfv_ti_open_document"
+msgstr ""
+
+msgid "pdfv_ti_switch_page_title"
+msgstr ""
+
+msgid "pdvi_ap_application_title"
+msgstr ""
